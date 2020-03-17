@@ -14,7 +14,7 @@ Nome: < Diego Viana dos Santos >
 | Frequência do(s) processador(es)                          | 1.4 ~ 1.6 GHz                      | 1.7 ~ 2.7 GHz                |
 | Memória total                                             | 120,640 GB                      | 8 GB                |
 | Tipo(s) de interconexão entre os núcleos/processadores    | Intel Omni-Path                      | Intel QuickPath                |
-| Desempenho Linpack                                        | 1,462.97 TFlop/s                      | 50.8731                |
+| Desempenho Linpack                                        | 1,462.97 TFlop/s                      | 50.8731 GFlop/s               |
 
 ### Referências
 - Top500. https://www.top500.org/system/176908
