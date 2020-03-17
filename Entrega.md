@@ -1,23 +1,24 @@
 TOP500 & me: Comparativo de Arquiteturas Paralelas
 --------------------------------------------------
 
-Nome: < preencha seu nome aqui >
+Nome: < Diego Viana dos Santos >
 
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
-| Nome/Título                                               |                       |                 |
+| Nome/Título                                               | Endeavor - Intel Cluster                      | Dell Inspiron 3442            |
 | Imagem (foto, diagrama, screenshot, etc.)                 | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
-| Classificação de Flynn                                    |                       |                 |
-| Memória: compartilhada, distribuída ou ambas?             |                       |                 |
-| Número total de núcleos de processamento                  |                       |                 |
-| Fabricante e modelo do(s) processador(es)                 |                       |                 |
-| Frequência do(s) processador(es)                          |                       |                 |
-| Memória total                                             |                       |                 |
-| Tipo(s) de interconexão entre os núcleos/processadores    |                       |                 |
-| Desempenho Linpack                                        |                       |                 |
+| Classificação de Flynn                                    | SIMD                      | SIMD                |
+| Memória: compartilhada, distribuída ou ambas?             | Compartilhada                      | Compartilhada                |
+| Número total de núcleos de processamento                  | 45,680                      | 2                |
+| Fabricante e modelo do(s) processador(es)                 | Intel Xeon Phi 7250F 68C 1.4GHz                      | Intel Core i5-4210U 1.70GHz                |
+| Frequência do(s) processador(es)                          | 1.4 ~ 1.6 GHz                      | 1.7 ~ 2.7 GHz                |
+| Memória total                                             | 120,640 GB                      | 8 GB                |
+| Tipo(s) de interconexão entre os núcleos/processadores    | Intel Omni-Path                      | Intel QuickPath                |
+| Desempenho Linpack                                        | 1,462.97 TFlop/s                      | 50.8731                |
 
 ### Referências
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- Complete aqui: Autor (nome de pessoa ou instituição). Título. URL.
-- ...
+- Top500. https://www.top500.org/system/176908
+- Nasa. Endeavour Supercomputer. https://www.nas.nasa.gov/hecc/resources/endeavour.html
+- Intel xeon-phi-processor-x200-product-family-datasheet. https://www.intel.com/content/www/us/en/processors/xeon/xeon-phi-processor-x200-product-family-datasheet.html
+- Intel Core i5-4210U. https://ark.intel.com/content/www/br/pt/ark/products/81016/intel-core-i5-4210u-processor-3m-cache-up-to-2-70-ghz.html
+- Dell Inspiron 3442. https://downloads.dell.com/manuals/all-products/esuprt_laptop/esuprt_inspiron_laptop/inspiron-14-3442-laptop_reference%20guide_pt-br.pdf
