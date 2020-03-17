@@ -6,7 +6,7 @@ Nome: < Diego Viana dos Santos >
 | Característica                                            | Computador no TOP500  | Meu computador  |
 | --------------------------------------------------------- | --------------------- | --------------- |
 | Nome/Título                                               | Endeavor - Intel Cluster                      | Dell Inspiron 3442            |
-| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://www.nas.nasa.gov/hecc/assets/images/content/Endeavour_large.jpg" width="80"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
+| Imagem (foto, diagrama, screenshot, etc.)                 | <img src="https://www.nas.nasa.gov/hecc/assets/images/content/Endeavour_large.jpg" width="180"> | Substitua-me. <img src="http://www.top500.org/static//images/Top500_logo.png" width="48">|
 | Classificação de Flynn                                    | SIMD                      | SIMD                |
 | Memória: compartilhada, distribuída ou ambas?             | Compartilhada                      | Compartilhada                |
 | Número total de núcleos de processamento                  | 45,680                      | 2                |
